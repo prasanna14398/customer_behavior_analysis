@@ -206,5 +206,4 @@ Reporting & Presentation
 
 Prasanna B
 
-[Your Name]
 Data Analyst | SQL | Power BI | Python
